@@ -1,0 +1,21 @@
+<!DOCTYPE html><html lang=zh-CN><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><link rel="shortcut icon" type=image/x-icon href=/static/favicon.ico><meta name=viewport content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1"><title></title><script>// 基于750的设计图，像素实际为 375px, font-size: 100px, 窗口宽度为 3.75rem
+		!function(e, t) { 
+		    var n = t.documentElement,
+		        d = e.devicePixelRatio || 1; // 设备DPR
+		    function i() { 
+		        var e = n.clientWidth / 3.75; // iPhone 6 布局视口375
+		        n.style.fontSize = e + "px" 
+		    } 
+		    if (function e() { t.body ? t.body.style.fontSize = "16px" : t.addEventListener("DOMContentLoaded", e)}(),
+		        i(),
+		        e.addEventListener("resize", i), 
+		        e.addEventListener("pageshow", function(e) { e.persisted && i() }), d >= 2){
+		        var o = t.createElement("body"), a = t.createElement("div");
+		        a.style.border = ".5px solid transparent", o.appendChild(a), n.appendChild(o), 
+		        1 === a.offsetHeight && n.classList.add("hairlines"), n.removeChild(o) 
+		    } 
+		
+		}(window, document)
+			// document.addEventListener('DOMContentLoaded', function() {
+			// 	document.documentElement.style.fontSize = document.documentElement.clientWidth / 20 + 'px'
+			// })</script><link rel=stylesheet href=/static/index.css><link rel=stylesheet type=text/css href=/static/video-js/video-js.css><link rel=stylesheet type=text/css href=/static/wxpay/wepayui.min.css><link rel=stylesheet type=text/css href=/static/wxpay/pay.css><link rel=stylesheet type=text/css href=/static/wxpay/wxpay.css><script src=/static/video-js/video.min.js charset=utf-8></script><script src=/static/video-js/videojs-landscape-fullscreen.min.js charset=utf-8></script></head><body><noscript><strong>本站点必须要开启JavaScript才能运行</strong></noscript><div id=app></div><script src=/static/js/chunk-vendors.e380f463.js></script><script src=/static/js/index.baf7f83e.js></script></body></html>
