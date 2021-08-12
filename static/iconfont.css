@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "custom-icon"; /* Project id 2695385 */
+  src: 
+       url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAUgAAsAAAAACpgAAATUAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGYACDKgqHcIZ4ATYCJAMUCwwABCAFhQsHYRtPCVGULk6M7OdhbCw7PIzVYkSj3YQAHjri588ynNZ5BNF+/GZPvrijySXhSbXSxRNUUic0Gp3qmfyGf097AzOoAzPpZTCCg7I26XVFVh2Y3Dk5uEep7VF/+mWaH66nXyXn/7/frKi23zmvEzI1mbz3gYvrxCxx1i3RJ3q6iZa+lb5QV0rfIp7FhWJSBuguAh12quB4oqENBz7PaJMOhHPGxgZ2y3imUtLA/e5RIpShzdGSdM8iPqukj+kuPunfH//sjjaSmrFznX9QrwAXv4SxZL554Vp+5VVxffDaCRUZWw3zxZPoyD1Opm1Lxx1QfWd7AG08lCi0uoilaUzWClOncBv9h0cRkky0YLiLcI9UFX6GSYNNijAITFZgkDCxYGKC2XWPDowDcQGA+Io5l4q0dfDGMTIQJkt2JvHu9g7zabsHdinXSInbiq1hO/GTCVs9Vzusj1gTYkE848WnvBWRkneU2tPPCCW7SdtwUVptghIou52SCKuV4vGnT0MTRFwFnvCARMEgkHGelfMSzzs4CRcQX+kcwCdZHByEw7c9fcSbB0HiD91CvCWLsGIIAjooSeM6F4Tk4tOqfxFWyW4XbLZB4v3LDkIMcZQizyDSvUuAP28mwSQ1ciHhyoNc2/IX71IrxCC8R9l+GS8jlkshlEUYuSpqVay9tlXHIW+Vn6s+l30o+0LMmrgQ2S7Zo+ruAv60q0ucTtsPbdSa3AMR8ouvffdwWZU4pNgc3pVXuCrE8/8QpDxpaJOjY0x6MnkpiUoN+ftyXG3aXd8i33u16c05Hkv6BicSCTNnJhCJg68Kraa1JiYSBideBZZ2jZ+lp4tGFBaOKKI/UC3V0vHpog++NgDuXxpGhOJSGFbWNhq5I7uDREe9F1cqi4p+FIVHPo6KWup5V3bXD7+MEIPD4Gns9Lc6jBnMLRowiA3LPAPP7N+MdWKEMUKrWUfgFOwcAenOEMZtTouL/rF/v28tPHJ4eIZz5IJ/lwfD6suCYZmlDhOpLlOXtrlOVas8xgayXd3A+lqHqiqHi6aVrYC1/U/91ZVdztg5WX2Y9kfgpG3abu93F3yct89acTFoFdeZ3ODfknV1zpclW146zPX81nDVO6fcBxmTVxmcDGcngXEAmvOnrACA/D0doM0a+WmecCyv5cK2BNlI37L/7sj+XfIDewlJNQpIRsCxaExsOHKJhEXLV0dIgfpLQwJV9ZRnJLGV/RystQx4Uww9mLg5odOgjZJWMyjrtMws3J3Myt3PbOGeQh02desLW38SJ1HasWIhRmHEMZT0+IayEc+ZhfudUaVRmS3cSdThamQfrdNKvD9uYGgTo0D7xqMqOadjRQeT3Gw0cdrM/+w9jNKsoQ3PvlYZyRiMKlyKZsMsoKaR0TGG/LYxjlHmmEwsyho4LdpQ7PkYjYZDBwxcPyM3wdEm00AJhrHQq0A5pwW1DBg0E4YCqs94KBU5jg6r1jeRMzPqtRytzIif04OhZKZBM0QPASgnMQx3rCKLg8oGZSVjNmJd0gEbWN9oDKWcb2cTFoplyBZDNTQ5xNBwG0fxAFzejyH/RKDRGVoPKIHBumgmGFZLa2e58SwalJ2pRoocJWq0aLnDsbROGaBRelWmIqk1K82XIv7eumpa5WJgdE43AA==') format('woff2');
+       
+}
+
+.custom-icon {
+  font-family: "custom-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.custom-icon-bofang:before {
+  content: "\e638";
+}
+
+.custom-icon-bofangqi-danmuguan:before {
+  content: "\e696";
+}
+
+.custom-icon-bofangqi-danmukai:before {
+  content: "\e697";
+}
+
+.custom-icon-renqi:before {
+  content: "\e619";
+}
+
